@@ -26,3 +26,15 @@ Simple demo to show how to display a video as your background image on a website
 I've added the correctly formatted video files for each browser and if on a older browser it will simple show the image provided.<br />
 <a href="http://ruddernation-designs.github.io/video-background/" target="_blank" title="Background Video Demo">Demo</a>
 
+# html5-contact-form-with-Google-maps
+This is a PHP contact form in HTML5/CSS3 with Google maps using the canvas feature,
+This uses the Modernizr and Bootstrap features meaning that this contact form is fully responsive.
+
+This is ready for instant use once you change the email addresses in the contact.php in the core folder,
+It can be used as a full page or embed into a existing page, 
+Just simply remove the relevant tags and do a few css updates to make it fit the page or with your themes style.
+
+I've also only added the most basic of information needed from the contact form, you could also include location/time/referrer etc, I've also added a few html tags that will be stripped inside the form, you can add more if you wish, This is to combat against XSS attacks.
+
+This version is a live version but does not include the PHP file as that does not run on GitHub, But everything works as it's suppose to.
+<a href="http://ruddernation-designs.github.io/contact-with-google-maps target="_blank" title="Contact forms with google maps Demo">Demo</a>
