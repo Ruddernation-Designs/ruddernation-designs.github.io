@@ -15,3 +15,9 @@ This has youtube and smileys enabled.<br />
 This allows you to change the colour of the background of a website page or item,
 You can also use a pad to change the colour and select from which hexadecimal colours.<br />
 <a href="http://ruddernation-designs.github.io/colour-changer" target="_blank" title="JavaScript-Colour-Changer">Demo</a>
+
+# javascript-colour-changer-using-pad
+This allows you to change the colour of the background of a website page or item,
+This version uses pad so is slightly different than the one above, But does the same job.<br />
+<a href="http://ruddernation-designs.github.io/colour-changer/pad" target="_blank" title="JS-Pad-Colour-Changer">Demo</a>
+
