@@ -9,6 +9,9 @@ Allows you to embed a TinyChat room in to a web page using my chat script,
 This will also embed into almost any CMS by simply removing the relevant tags.
 Just change the room name from ruddernation to your room, also update the urlsuper to your domain for sharing,
 This has youtube and smileys enabled.<br />
-<a href="http://ruddernation-designs.github.io" target="_blank" title="TinyChat Embed Demo">Demo</a>
+<a href="http://ruddernation-designs.github.io/tinychat" target="_blank" title="TinyChat Embed Demo">Demo</a>
 
-
+# javascript-colour-changer
+This allows you to change the colour of the background of a website page or item,
+You can also use a pad to change the colour and select from which hexadecimal colours.<br />
+<a href="http://ruddernation-designs.github.io/colour-changer" target="_blank" title="JavaScript-Colour-Changer">Demo</a>
