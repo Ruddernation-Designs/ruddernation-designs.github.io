@@ -1,6 +1,6 @@
 # ruddernation-designs.github.io
 Hosted domain for all repos
-Just go to my <a href="https://ruddernation-designs.github.io">Repos Page</a>
+Just go to my <a href="https://ruddernation-designs.github.io" target="_blank">Repository Page</a>
 
 I'm now adding live demos of some of my software, Just read below for the one you want and select the link(s).
 
