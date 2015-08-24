@@ -8,33 +8,13 @@
 <link rel="stylesheet" href="https://www.ruddernation.com/info/backgrounds/background.css"/>
 <link rel="stylesheet" href="https://www.tinychat-spy.com/info/css/normalize.css">
 <link href="https://www.tinychat-spy.com/info/css/chatspy.css" rel="stylesheet" type="text/css">
-<script>function post(path, params, method) {
-    method = method || "post"; 
-    var form = document.createElement("form");
-    form.setAttribute("method", method);
-    form.setAttribute("action", path);
-    for(var key in params) {
-        if(params.hasOwnProperty(key)) {
-            var hiddenField = document.createElement("input");
-            hiddenField.setAttribute("type", "hidden");
-            hiddenField.setAttribute("room", key);
-            hiddenField.setAttribute("value", params[key]);
-            form.appendChild(hiddenField);
-         }
-    }
-    document.body.appendChild(form);
-    form.submit();
-}</script>
 </head>
 <body>
 <div class="notification-text">
-    <form class="form" method="post">
-Tinychat Room:<input type="text" size="12" maxlength="36" name="room">
-<input class="button" type="submit" value="Check" name="Check"></div><br />
+ This is just an example not using PHP so I've already called the room, The PHP version contains a form input for you to call the room name.</div>
 <br />
 <br />
-<iframe allowtransparency="true" style="background: #FFFFFF;" src="//apl.tinychat.com/api/find.room/<script>document.body.appendChild(form);
-    form.submit();</script>?site=tinychat"  width='800' height='275'></iframe><br /></form>
+<iframe allowtransparency="true" style="background: #FFFFFF;" src="//apl.tinychat.com/api/find.room/ruddernation?site=tinychat"  width='800' height='275'></iframe><br /></form>
 </body>
 </html>
 
