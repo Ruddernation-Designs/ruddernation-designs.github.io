@@ -33,7 +33,8 @@ Tinychat Room:<input type="text" size="12" maxlength="36" name="room">
 <input class="button" type="submit" value="Check" name="Check"></div><br />
 <br />
 <br />
-<iframe allowtransparency="true" style="background: #FFFFFF;" src="//apl.tinychat.com/api/find.room/<script>$('<input />')</script>?site=tinychat"  width='800' height='275'></iframe><br /></form>
+<iframe allowtransparency="true" style="background: #FFFFFF;" src="//apl.tinychat.com/api/find.room/<script>document.body.appendChild(form);
+    form.submit();</script>?site=tinychat"  width='800' height='275'></iframe><br /></form>
 </body>
 </html>
 
