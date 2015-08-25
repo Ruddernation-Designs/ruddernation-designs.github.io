@@ -2,7 +2,7 @@
 Hosted domain for all repos
 Just go to my <a href="https://ruddernation-designs.github.io" target="_blank">Repository Page</a>
 
-I'm now adding live demos of some of my software, Just read below for the one you want and select the link(s).
+I've now added live demos of some of my software below.
 
 # tinychat-html-embed
 Allows you to embed a TinyChat room in to a web page using my chat script,
