@@ -50,5 +50,5 @@ I've also added most of the security features to the main javascript file so it'
 
 #TinyChat-RTMP
 This is used to get the correct RTMP IP of the room in question. <br />
-###<a href="https://ruddernation-designs.github.io/tinychat-rtmp/" target="_blank" title="RTMP Demo">Demo</a><br />
-###<a href="https://www.tinychat-spy.com/rtmp" target="_blank">Demo with input</a>
+##<a href="https://ruddernation-designs.github.io/tinychat-rtmp/" target="_blank" title="RTMP Demo">Demo</a><br />
+##<a href="https://www.tinychat-spy.com/rtmp" target="_blank">Demo with input</a>
