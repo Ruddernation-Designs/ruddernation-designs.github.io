@@ -37,6 +37,7 @@ I've also only added the most basic of information needed from the contact form,
 
 This version is a live version but does not include the PHP file as that does not run on GitHub, But everything works as it's suppose to.<br />
 ###<a href="http://ruddernation-designs.github.io/contact-with-google-maps" target="_blank" title="Contact forms with google maps Demo">Demo</a>
+###<a href="https://www.ruddernation.com" target="_blank" title="Main website">Live working demo</a>
 <br />
 # CSS3-contact-form
 This another contact form that is easy to use and is customised in CSS3 and Ajax,
@@ -47,7 +48,6 @@ I've also added most of the security features to the main javascript file so it'
 <br />
 ###<a href="https://ruddernation-designs.github.io/css-contact-form/" target="_blank" title="CSS3 Contact form">Demo</a>
 <br />
-
 #TinyChat-RTMP
 This is used to get the correct RTMP IP of the room in question. <br />
 ##<a href="https://ruddernation-designs.github.io/tinychat-rtmp/" target="_blank" title="RTMP Demo">Demo</a><br />
