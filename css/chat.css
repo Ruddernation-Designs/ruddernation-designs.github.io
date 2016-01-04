@@ -1,1 +1,10 @@
-
+#chat{
+  height:100%;
+  width:100%;
+  left:0px; 
+  right:0px; 
+  bottom:0px; 
+  position:fixed;
+  z-index:9999
+  
+}
