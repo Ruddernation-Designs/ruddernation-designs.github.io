@@ -1,8 +1,8 @@
 # Ruddernation Designs
 ## I've now added live demos of some of my software below.
-<a href="http://stackexchange.com/users/7615203/ruddernation-designs?tab=accounts">
-<img src="http://stackexchange.com/users/flair/7615203.png?theme=clean" width="208" height="58" alt="profile for Ruddernation Designs on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Ruddernation Designs on Stack Exchange, a network of free, community-driven Q&amp;A sites">
-</a>
+<a href="http://stackoverflow.com/users/5774880/ruddernation-designs">
+<img src="http://stackoverflow.com/users/flair/5774880.png?theme=clean" width="208" height="58" alt="profile for Ruddernation Designs at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Ruddernation Designs at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
+</a><br/>
 Hosted domain for all repositories on GitHub,
 Just go to my <a href="https://ruddernation-designs.github.io" target="_blank">Repository Page</a> and check them out.
 
