@@ -1,8 +1,5 @@
 # Ruddernation Designs
 ## I've now added live demos of some of my software below.
-<a href="http://stackoverflow.com/users/5774880/ruddernation-designs">
-<img src="http://stackoverflow.com/users/flair/5774880.png?theme=clean" width="208" height="58" alt="profile for Ruddernation Designs at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Ruddernation Designs at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
-</a><br/>
 Hosted domain for all repositories on GitHub,
 Just go to my <a href="https://ruddernation-designs.github.io" target="_blank">Repository Page</a> and check them out.
 
@@ -55,3 +52,7 @@ I've also added most of the security features to the main javascript file so it'
 This is used to get the correct RTMP IP of the room in question. <br />
 ##<a href="https://ruddernation-designs.github.io/tinychat-rtmp/" target="_blank" title="RTMP Demo">Demo</a><br />
 ##<a href="https://www.tinychat-spy.com/rtmp" target="_blank">Demo with input</a>
+<br/>
+<a href="http://stackoverflow.com/users/5774880/ruddernation-designs">
+<img src="http://stackoverflow.com/users/flair/5774880.png" width="208" height="58" alt="profile for Ruddernation Designs at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Ruddernation Designs at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
+</a>
