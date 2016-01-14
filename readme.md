@@ -59,4 +59,6 @@ This is used to get the correct RTMP IP of the room in question. <br />
 <img src="http://webmasters.stackexchange.com/users/flair/59500.png" width="208" height="58" alt="profile for Ruddernation Designs at Webmasters Stack Exchange, Q&amp;A for pro webmasters" title="profile for Ruddernation Designs at Webmasters Stack Exchange, Q&amp;A for pro webmasters">
 </a> <a href="http://wordpress.stackexchange.com/users/86736/ruddernation-designs">
 <img src="http://wordpress.stackexchange.com/users/flair/86736.png" width="208" height="58" alt="profile for Ruddernation Designs at WordPress Development Stack Exchange, Q&amp;A for WordPress developers and administrators" title="profile for Ruddernation Designs at WordPress Development Stack Exchange, Q&amp;A for WordPress developers and administrators">
+</a> <a href="http://cs.stackexchange.com/users/44773/ruddernation-designs">
+<img src="http://cs.stackexchange.com/users/flair/44773.png" width="208" height="58" alt="profile for Ruddernation Designs at Computer Science Stack Exchange, Q&amp;A for students, researchers and practitioners of computer science" title="profile for Ruddernation Designs at Computer Science Stack Exchange, Q&amp;A for students, researchers and practitioners of computer science">
 </a>
