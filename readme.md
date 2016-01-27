@@ -1,7 +1,7 @@
 # Ruddernation Designs
 ## I've now added live demos of some of my software below.
 Hosted domain for all repositories on GitHub,
-Just go to my <a href="https://ruddernation-designs.github.io" target="_blank">Repository Page</a> and check them out.
+###<a href="https://ruddernation-designs.github.io" target="_blank">Repository Page</a>.
 
 # tinychat-html-embed
 Allows you to embed a TinyChat room in to a web page using my chat script,
