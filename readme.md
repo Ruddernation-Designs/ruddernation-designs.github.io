@@ -53,6 +53,6 @@ This is used to get the correct RTMP IP of your chosen room. <br />
 ##<a href="https://ruddernation-designs.github.io/tinychat-rtmp/" target="_blank" title="RTMP Demo">Demo</a><br />
 ##<a href="https://www.ruddernation.com/rtmp" target="_blank">Live Version</a>
 <br/>
-<a href="http://stackoverflow.com/users/5774880/ruddernation-designs">
+<!--<a href="http://stackoverflow.com/users/5774880/ruddernation-designs">
 <img src="http://stackoverflow.com/users/flair/5774880.png" width="208" height="58" alt="profile for Ruddernation Designs at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Ruddernation Designs at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
-</a>
+</a>-->
