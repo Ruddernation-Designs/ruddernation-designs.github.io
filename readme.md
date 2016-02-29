@@ -9,7 +9,9 @@ Currently ading a wiki for all software/scripts to walk you through everything, 
 Allows you to embed a TinyChat room in to a web page using my chat script,
 This will also embed into almost any CMS by simply removing the relevant tags.
 Just change the room name from ruddernation to your room, also update the urlsuper to your domain for sharing,
-This has youtube and smileys enabled.
+This has smileys enabled,
+EDIT: I've now removed YouTube from all my software, YouTube videos will still work if you're a moderator,
+If you wish to add youtube so as all users can play videos then add `youtube:"all"` to your scripts.
 ###<a href="http://ruddernation-designs.github.io/tinychat" target="_blank" title="TinyChat Embed Demo">Demo</a>
 
 # javascript-colour-changer
