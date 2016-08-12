@@ -2,9 +2,16 @@
 ## I've now added live demos of some of my software below.
 Hosted domain for all repositories on GitHub,
 ###<a href="https://ruddernation-designs.github.io" target="_blank">Repository Page</a>
-Currently adding a wiki for all software/scripts to walk you through everything, Check the link below to keep informed.
-###<a href="https://github.com/Ruddernation-Designs/ruddernation-designs.github.io/wiki" target="_blank">Wiki</a>
 
+# Tinychat Spy Multi Room
+This was requested and I will add it with more functionallity at some point to select your chosen rooms via form or GET requests in the browser, example URL/room1=blahblah?room2=comeagain?room3=monkeyboy
+Allows you to have multiple rooms on one page for room spy, Change the room names as you see fit, I did this to help someone so I hope it helps others out.
+If you require the "last active" or other items then use the correct item name. example: website, 
+location ect for the last active use the code below, I wrote this specifically for the XML as xml is annoying.
+
+date($room2['last_active']); echo '<br/>Last Active: '; echo date("Y-m-d H:i:s", mktime());
+
+for website use: `echo '<br/>Website: '.$room2['website'].'';`
 # Tinychat HTML Embed
 Allows you to embed a TinyChat room in to a web page using my chat script,
 This will also embed into almost any CMS by simply removing the relevant tags.
