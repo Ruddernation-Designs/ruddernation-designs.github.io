@@ -4,8 +4,8 @@ Hosted domain for all repositories on GitHub,
 ###<a href="https://ruddernation-designs.github.io" target="_blank">Repository Page</a>
 
 # Tinychat Spy Multi Room
-This was requested and I will add it with more functionallity at some point to select your chosen rooms via form or GET requests in the browser, example URL/room1=blahblah?room2=comeagain?room3=monkeyboy
-Allows you to have multiple rooms on one page for room spy, Change the room names as you see fit, I did this to help someone so I hope it helps others out.
+This was requested and I will add it with more functionallity at some point to select your chosen rooms via form or GET requests in the browser, example `URL/room1=blahblah?room2=comeagain?room3=monkeyboy`<br/>
+Allows you to have multiple rooms on one page for room spy, Change the room names as you see fit, I did this to help someone so I hope it helps others out.<br/>
 If you require the "last active" or other items then use the correct item name. example: website, 
 location ect for the last active use the code below, I wrote this specifically for the XML as xml is annoying.
 
