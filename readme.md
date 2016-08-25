@@ -2,7 +2,7 @@
 ## I've now added live demos of some of my software below.
 Hosted domain for all repositories on GitHub,
 ###<a href="https://ruddernation-designs.github.io" target="_blank">Repository Page</a>
-###I'm now available on Skype again for help with any of my websites or software, Search and add Ruddernation on your Skype.
+###I'm now available on Skype again for help with any of my websites or software, Search and add `Ruddernation` on your Skype.
 
 # Tinychat Spy Multi Room
 This was requested and I will add it with more functionallity at some point to select your chosen rooms via form or GET requests in the browser, example `URL/room1=blahblah?room2=comeagain?room3=monkeyboy`<br/>
