@@ -13,6 +13,7 @@ location ect for the last active use the code below, I wrote this specifically f
 date($room2['last_active']); echo '<br/>Last Active: '; echo date("Y-m-d H:i:s", mktime());
 
 for website use: `echo '<br/>Website: '.$room2['website'].'';`
+###<a href="https://www.ruddernation.com/multiroom/">Demo</a>
 # Tinychat HTML Embed
 Allows you to embed a TinyChat room in to a web page using my chat script,
 This will also embed into almost any CMS by simply removing the relevant tags.
