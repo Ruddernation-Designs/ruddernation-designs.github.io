@@ -68,3 +68,8 @@ I've also added most of the security features to the main javascript file so it'
 This is used to get the correct RTMP IP of your chosen room. <br />
 ###<a href="https://ruddernation-designs.github.io/tinychat-rtmp/" target="_blank" title="RTMP Demo">Demo</a><br />
 ###<a href="https://www.ruddernation.com/rtmp" target="_blank">Live Version</a>
+
+
+###JQuery Colour Changer
+Rotates body colour between RGB 0,0,0 to 255,255,255, Uses the latest jQuery
+[Demo](http://ruddernation-designs.github.io/jquery-colour-rotation/)
