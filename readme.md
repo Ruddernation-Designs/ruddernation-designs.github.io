@@ -71,5 +71,5 @@ This is used to get the correct RTMP IP of your chosen room. <br />
 
 
 ###JQuery Colour Changer
-Rotates body colour between RGB 0,0,0 to 255,255,255, Uses the latest jQuery
+Rotates body colour between RGB 0,0,0 to 255,255,255, Uses the latest jQuery.</br>
 [Demo](http://ruddernation-designs.github.io/jquery-colour-rotation/)
