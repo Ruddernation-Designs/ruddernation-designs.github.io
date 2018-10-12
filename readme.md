@@ -1,7 +1,7 @@
 # Ruddernation Designs
 ## I've now added live demos of some of my software below.
 Hosted domain for all repositories on GitHub,
-<a href="http://ruddernation-designs.github.io" target="_blank">Repository Page</a>
+<a href="http://ruddernation-designs.github.io/" target="_blank">Repository Page</a>
 I'm now available on Skype again for help with any of my websites or software, Search and add `Ruddernation` on your Skype.
 
 # Tinychat HTML Embed
